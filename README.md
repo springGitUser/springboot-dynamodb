@@ -13,6 +13,7 @@ access:
     server:
   port: 9001
   
+ 
 Sample rest end points.
 http://localhost:9001/dynamoDb
 Method—PUT
